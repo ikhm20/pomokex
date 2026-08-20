@@ -1,0 +1,27 @@
+{
+  "name": "Помодоро — таймер фокуса",
+  "short_name": "Помодоро",
+  "description": "Помодоро-таймер: фокус, перерывы, канбан и статистика дня. Работает офлайн.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#120e0b",
+  "theme_color": "#120e0b",
+  "categories": ["productivity", "lifestyle"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
